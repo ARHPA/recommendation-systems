@@ -1,4 +1,2 @@
 # recommendation-systems
-basic recommendation systems
-  collaborative filtering
-  Content Based
+basic recommendation systems: collaborative filtering and Content Based
